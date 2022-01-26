@@ -17,7 +17,7 @@ public class PostSteps {
         System.out.println("iTypeTheMessageInTheTextBox");
         System.out.println("Hello World");
     }
-    
+
 
     @And("^click on Post button$")
     public void clickOnPostButton() {
